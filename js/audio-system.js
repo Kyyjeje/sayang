@@ -14,8 +14,8 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'kota ini tak sama tanpamu',
-    artist:    'Nadhief',
+    title:     'Shape of my heart',
+    artist:    'Backstreet boys',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
     startTime: 0,       // seconds — where playback begins
